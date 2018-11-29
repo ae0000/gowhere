@@ -1,5 +1,6 @@
 package gowhere
 
+// Countries holds the raw data
 var Countries = []Country{
 	Country{
 		Code:           "AF",
